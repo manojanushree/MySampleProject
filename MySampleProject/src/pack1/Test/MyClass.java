@@ -2,5 +2,5 @@ package pack1.Test;
 
 public class MyClass {
 
-	//comment
+	//comment updated
 }
